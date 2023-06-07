@@ -1,0 +1,84 @@
+{
+  "comments": [
+    {
+      "text": "Здравствуйте, Дмитрий! Очень нравится как вы открываете глаза людям. Действительно ведь, очень много людей абсолютно не знают своих прав. Спасибо, что ведёте такой канал!",
+      "userId": 1,
+      "username": "BILLY",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T12:35:42.084Z",
+      "id": 1
+    },
+    {
+      "text": "Здравствуйте, Дмитрий! Очень нравится как вы открываете глаза людям. Действительно ведь, очень много людей абсолютно не знают своих прав. Спасибо, что ведёте такой канал!",
+      "userId": 1,
+      "username": "BILLY",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 1,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T13:13:15.936Z",
+      "id": 2
+    },
+    {
+      "text": "i dont understand you language may be it sussian but could you speak english please",
+      "userId": 2,
+      "username": "ismai tarasov",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T13:34:33.738Z",
+      "id": 3
+    },
+    {
+      "text": "gghghh",
+      "userId": 3,
+      "username": "megaladon",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 2,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T16:06:27.575Z",
+      "id": 4
+    },
+    {
+      "text": "hi",
+      "userId": 3,
+      "username": "megaladon",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T17:05:14.315Z",
+      "id": 5
+    },
+    {
+      "text": "i dont understand your hi you should say hello",
+      "userId": 3,
+      "username": "megaladon",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 5,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T17:05:48.612Z",
+      "id": 6
+    },
+    {
+      "text": "megaladon",
+      "userId": 3,
+      "username": "megaladon",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 5,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T17:07:23.299Z",
+      "id": 7
+    },
+    {
+      "text": "megaladongfgfgfgfgf",
+      "userId": 3,
+      "username": "megaladon",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 7,
+      "repliesCount": 0,
+      "createdAt": "2023-06-07T17:12:52.946Z",
+      "id": 8
+    }
+  ]
+}
