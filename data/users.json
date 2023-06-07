@@ -1,19 +1,24 @@
 {
   "users": [
     {
-      "username": "BILLY",
-      "password": "675787",
+      "username": "fantomas",
+      "password": "fgfg556",
       "id": 1
     },
     {
-      "username": "ismai tarasov",
-      "password": "fgfghj",
+      "username": "ALISTER CROULY",
+      "password": "fgfgfg",
       "id": 2
     },
     {
-      "username": "megaladon",
-      "password": "454t",
+      "username": "FANTOMAS",
+      "password": "gfdgdg",
       "id": 3
+    },
+    {
+      "username": "ALISTER CROWLY",
+      "password": "FDFDDFD",
+      "id": 4
     }
   ]
 }

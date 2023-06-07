@@ -236,7 +236,7 @@ button {
   margin-right: 15px;
   color: #746f6f;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @media (max-width: 600px) {
@@ -265,8 +265,8 @@ button {
 .text {
   margin-bottom: 12px;
   color: #746f6f;
-  font-size: 16px;
-  font-weight: 500;
+  font-size: 17px;
+  font-weight: 400;
 }
 
 @media (max-width: 600px) {
