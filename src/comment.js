@@ -106,7 +106,7 @@ const Comment = ({ username, userid, comment, depth = 0, handleDelete, btnCondit
   //const should = depth < 1;
 
   return (
-<div className='comment-block' style={{ paddingLeft: shouldApplyPadding ? (window.innerWidth < 600 && depth === 1 ? '20px' : `${depth * 67}px`) : 0 }}>
+    <div className='comment-block' style={{ paddingLeft: shouldApplyPadding ? (window.innerWidth < 600 && depth === 1 ? '20px' : `${depth * 67}px`) : 0 }}>
       <div className='flexible-content'>
         <div className='userImg-content'>
           <img src={comment.userImg} alt="userImg"/>

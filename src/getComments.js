@@ -13,7 +13,14 @@ const Get_comments = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(true);
   const [userName, setUsername] = useState('');
   const [userId, setUserId] = useState(Number);
-  //const [userImg, setUserImg] = useState();
+  
+  useEffect(() => {
+    if (!localStorage.getItem('user')) {
+      setIsLoggedIn(false);
+   }
+  }, []);
+  
+  console.log(localStorage)
 
   const commentsUrl = `${API_BASE_URL}:3400${COMMENTS_ENDPOINT}`;
   

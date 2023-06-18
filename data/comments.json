@@ -1,74 +1,94 @@
 {
   "comments": [
     {
-      "text": "hi everyone i am fantomas",
+      "text": "jgjgjghjghj",
       "userId": 1,
-      "username": "fantomas",
+      "username": "jjj",
       "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
       "parentId": 0,
       "repliesCount": 0,
-      "createdAt": "2023-06-07T22:18:20.642Z",
+      "createdAt": "2023-06-08T14:03:15.979Z",
       "id": 1
     },
     {
-      "text": "i figure out in mistike so i am stronger then everyone else",
-      "userId": 2,
-      "username": "ALISTER CROULY",
+      "text": "jjjjjjjjjjj",
+      "userId": 1,
+      "username": "jjj",
       "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
       "parentId": 0,
       "repliesCount": 0,
-      "createdAt": "2023-06-07T22:20:34.512Z",
+      "createdAt": "2023-06-08T14:03:19.154Z",
       "id": 2
     },
     {
-      "text": "somehow i am not sure that you can be powerfull then me , because only my name creates chaos in mind of humanity",
-      "userId": 3,
-      "username": "FANTOMAS",
-      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
-      "parentId": 2,
-      "repliesCount": 0,
-      "createdAt": "2023-06-07T22:22:06.112Z",
-      "id": 3
-    },
-    {
-      "text": "also you should understand that many scientificts work for me compared to you",
-      "userId": 3,
-      "username": "FANTOMAS",
-      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
-      "parentId": 2,
-      "repliesCount": 0,
-      "createdAt": "2023-06-07T22:23:31.997Z",
-      "id": 4
-    },
-    {
-      "text": "your opinion is not correct believe me i will proove it to you",
+      "text": "hhhhhfgf",
       "userId": 2,
-      "username": "ALISTER CROULY",
-      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
-      "parentId": 1,
-      "repliesCount": 0,
-      "createdAt": "2023-06-07T22:24:46.822Z",
-      "id": 5
-    },
-    {
-      "text": "we will see",
-      "userId": 2,
-      "username": "ALISTER CROULY",
-      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
-      "parentId": 2,
-      "repliesCount": 0,
-      "createdAt": "2023-06-07T22:25:15.229Z",
-      "id": 6
-    },
-    {
-      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-      "userId": 2,
-      "username": "ALISTER CROULY",
+      "username": "nn",
       "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
       "parentId": 0,
       "repliesCount": 0,
-      "createdAt": "2023-06-07T23:59:46.151Z",
+      "createdAt": "2023-06-08T14:14:48.847Z",
+      "id": 3
+    },
+    {
+      "text": "new world",
+      "userId": 3,
+      "username": "george",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-08T14:19:53.909Z",
+      "id": 4
+    },
+    {
+      "text": "jkhk",
+      "userId": 4,
+      "username": "77777",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-08T14:20:52.637Z",
+      "id": 5
+    },
+    {
+      "text": "necronomikon",
+      "userId": 4,
+      "username": "77777",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-08T15:04:26.562Z",
+      "id": 6
+    },
+    {
+      "text": "i am not forever",
+      "userId": 5,
+      "username": "aleks",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 0,
+      "repliesCount": 0,
+      "createdAt": "2023-06-08T15:06:54.770Z",
       "id": 7
+    },
+    {
+      "text": "first reply",
+      "userId": 5,
+      "username": "aleks",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 3,
+      "repliesCount": 0,
+      "createdAt": "2023-06-08T15:14:47.073Z",
+      "id": 8
+    },
+    {
+      "text": "reply on my self",
+      "userId": 5,
+      "username": "aleks",
+      "userImg": "/static/media/user.8d49e377c7c342895ec2.png",
+      "parentId": 8,
+      "repliesCount": 0,
+      "createdAt": "2023-06-08T15:14:57.871Z",
+      "id": 9
     }
   ]
 }

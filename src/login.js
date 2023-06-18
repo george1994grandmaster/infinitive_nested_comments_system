@@ -9,7 +9,6 @@ function LoginForm() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [existingUsers, setExistingUsers] = useState([]);
 
-  
   const usersUrl = `${API_BASE_URL}:3500${USERS_ENDPOINT}`;
 
   useEffect(() => {
@@ -26,9 +25,6 @@ function LoginForm() {
     if (user && user !== '{}') {
       setIsLoggedIn(true);
     }
-    /*const a = existingUsers.map(existingUser => {
-      console.log(existingUser.username);
-    });*/
   }, []);
 
 

@@ -1,24 +1,34 @@
 {
   "users": [
     {
-      "username": "fantomas",
-      "password": "fgfg556",
+      "username": "fhfghh",
+      "password": "fghfghf",
       "id": 1
     },
     {
-      "username": "ALISTER CROULY",
-      "password": "fgfgfg",
+      "username": "nn",
+      "password": "nn",
       "id": 2
     },
     {
-      "username": "FANTOMAS",
-      "password": "gfdgdg",
+      "username": "george",
+      "password": "aser",
       "id": 3
     },
     {
-      "username": "ALISTER CROWLY",
-      "password": "FDFDDFD",
+      "username": "77777",
+      "password": "888",
       "id": 4
+    },
+    {
+      "username": "aleks",
+      "password": "ehyy",
+      "id": 5
+    },
+    {
+      "username": "arnold",
+      "password": "yyuuu",
+      "id": 6
     }
   ]
 }
